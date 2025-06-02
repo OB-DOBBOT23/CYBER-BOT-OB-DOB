@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "OB-DOB AR BOT",
-    "PREFIX": "+",
+    "PREFIX": "/",
     "ADMINBOT": [
         "61553883520697",
         "61576881451277",
